@@ -1,0 +1,6 @@
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Console\bin\Debug\MarsRover.Console.exe.config
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Console\bin\Debug\MarsRover.Console.exe
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Console\bin\Debug\MarsRover.Console.pdb
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Console\obj\Debug\MarsRover.Console.csprojResolveAssemblyReference.cache
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Console\obj\Debug\MarsRover.Console.exe
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Console\obj\Debug\MarsRover.Console.pdb

@@ -1,0 +1,9 @@
+c:\users\gmbim63\documents\visual studio 2012\Projects\MarsRover.Test\bin\Debug\MarsRover.Test.dll
+c:\users\gmbim63\documents\visual studio 2012\Projects\MarsRover.Test\bin\Debug\MarsRover.Test.pdb
+c:\users\gmbim63\documents\visual studio 2012\Projects\MarsRover.Test\obj\Debug\MarsRover.Test.csprojResolveAssemblyReference.cache
+c:\users\gmbim63\documents\visual studio 2012\Projects\MarsRover.Test\obj\Debug\MarsRover.Test.dll
+c:\users\gmbim63\documents\visual studio 2012\Projects\MarsRover.Test\obj\Debug\MarsRover.Test.pdb
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\MarsRover.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\nunit.framework.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\MarsRover.pdb
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\nunit.framework.xml
