@@ -1,5 +1,0 @@
-C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.AcceptanceTest\bin\Debug\MarsRover.AcceptanceTest.dll
-C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.AcceptanceTest\bin\Debug\MarsRover.AcceptanceTest.pdb
-C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.AcceptanceTest\obj\Debug\MarsRover.AcceptanceTest.csprojResolveAssemblyReference.cache
-C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.AcceptanceTest\obj\Debug\MarsRover.AcceptanceTest.dll
-C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.AcceptanceTest\obj\Debug\MarsRover.AcceptanceTest.pdb
