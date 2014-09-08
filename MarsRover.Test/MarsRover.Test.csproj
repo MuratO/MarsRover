@@ -57,6 +57,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AcceptanceTest.cs" />
     <Compile Include="ContainerTest.cs" />
     <Compile Include="PathFinderTest.cs" />
     <Compile Include="PlateauTest.cs" />

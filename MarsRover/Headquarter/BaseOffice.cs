@@ -82,9 +82,15 @@ namespace MarsRover.Headquarter
 
         public IBaseOffice SendReportEarth()
         {
-            Output.SendGroundInfo(Ground);
-            Output.SendRoversInfo(roverSquadList);
+         //   Output.GetGroundInfo(Ground);
+            var report = Output.GetReport(roverSquadList);
+            Output.WriteReport(report);
             return this;
+        }
+
+        public string GetRoversInfo()
+        {
+            return Output.GetRoversInfo(roverSquadList);
         }
     }
 }

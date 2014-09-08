@@ -7,3 +7,14 @@ C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\
 C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\nunit.framework.dll
 C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\MarsRover.pdb
 C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover.Test\bin\Debug\nunit.framework.xml
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Test.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\MarsRover.Test.pdb
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\Autofac.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\MarsRover.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\nunit.framework.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\MarsRover.pdb
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\Autofac.xml
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\bin\Debug\nunit.framework.xml
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.csprojResolveAssemblyReference.cache
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.dll
+C:\Users\GMBIM63\Documents\Visual Studio 2012\Projects\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.pdb

@@ -6,7 +6,9 @@ namespace MarsRover.Output
 {
     public interface IOutput
     {
-        void SendGroundInfo(IGround ground);
-        void SendRoversInfo(IList<IRover> rovers);
+        string GetGroundInfo(IGround ground);
+        string GetRoversInfo(IList<IRover> rovers);
+        string GetReport(IList<IRover> rovers);
+        void WriteReport(string report);
     }
 }
